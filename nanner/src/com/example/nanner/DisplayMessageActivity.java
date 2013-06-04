@@ -17,7 +17,7 @@ public class DisplayMessageActivity extends Activity {
 		int iv = R.layout.activity_display_message;
 		setContentView(iv);
 		// Show the Up button in the action bar.
-//		setupActionBar();
+		setupActionBar();
 		TextView tv = new TextView(this);
 		tv.setText("Simply dummy text");
         // finally add your TextView to the RelativeLayout
