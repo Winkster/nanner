@@ -21,7 +21,7 @@ public class DisplayMessageActivity extends Activity {
 		TextView tv = new TextView(this);
 		tv.setText("Simply dummy text");
         // finally add your TextView to the RelativeLayout
-        iv.addView(tv);
+//        iv.addView(tv);
 
 		
 //		textView1.setText("fuck off!");
